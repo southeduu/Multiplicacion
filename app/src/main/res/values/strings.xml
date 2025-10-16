@@ -1,0 +1,26 @@
+<resources>
+    <!-- Nombre de la aplicación que aparece en el lanzador (launcher) -->
+    <string name="app_name">Multiplicacion</string>
+
+    <!-- Título principal de la calculadora -->
+    <string name="app_title">Calculadora Básica</string>
+
+    <!-- Pistas (hints) para los campos de texto -->
+    <string name="hint_number_1">Introduce el primer número</string>
+    <string name="hint_number_2">Introduce el segundo número</string>
+
+    <!-- Textos de los botones de operación -->
+    <string name="op_sum">+</string>
+    <string name="op_res">-</string>
+    <string name="op_mul">x</string>
+    <string name="op_div">/</string>
+
+    <!-- Texto por defecto para el resultado -->
+    <string name="default_result">Resultado: 0.0</string>
+
+    <!-- Descripciones de contenido (Accesibilidad) -->
+    <string name="desc_sum">Botón de Sumar</string>
+    <string name="desc_res">Botón de Restar</string>
+    <string name="desc_mul">Botón de Multiplicar</string>
+    <string name="desc_div">Botón de Dividir</string>
+</resources>
